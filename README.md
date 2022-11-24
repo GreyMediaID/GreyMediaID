@@ -5,7 +5,9 @@ GreyMedia.ID exist as a forum and place to share knowledge and develop knowledge
 
 ### About Us
 Kami adalah komunitas yang berfokus pada bidang IT, tentunya seperti Videografi/Fotografi, Pemrograman, Teknologi maju, Tips and Trick, dan lain sebagainya...
-![GreyMediaID github stats](https://github-readme-stats.vercel.app/api?username=GreyMediaID&show_icons=true&theme=buefy&show_owner=true)
+<br/>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GreyMediaID&show_icons=true&theme=gotham" alt="GreyMediaID" />
 <!--
 **GreyMediaID/GreyMediaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
