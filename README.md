@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" align="center"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 
 # GreyMedia.ID
 GreyMedia.ID exist as a forum and place to share knowledge and develop knowledge, and still respect and a have a good attitude towards others
@@ -6,7 +6,12 @@ GreyMedia.ID exist as a forum and place to share knowledge and develop knowledge
 ### About Us
 Kami adalah komunitas yang berfokus pada bidang IT, tentunya seperti Videografi/Fotografi, Pemrograman, Teknologi maju, Tips and Trick, dan lain sebagainya...
 <br/>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GreyMediaID&show_icons=true&theme=gotham" alt="GreyMediaID" />
 <!--
 **GreyMediaID/GreyMediaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
