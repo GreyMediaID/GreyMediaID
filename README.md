@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" align="center"/>
 
 # GreyMedia.ID
 GreyMedia.ID exist as a forum and place to share knowledge and develop knowledge, and still respect and a have a good attitude towards others
