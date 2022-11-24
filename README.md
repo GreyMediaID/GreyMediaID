@@ -6,8 +6,9 @@ GreyMedia.ID exist as a forum and place to share knowledge and develop knowledge
 ### About Us
 Kami adalah komunitas yang berfokus pada bidang IT, tentunya seperti Videografi/Fotografi, Pemrograman, Teknologi maju, Tips and Trick, dan lain sebagainya...
 Ingin bergabung? Hubungi kami
+<br/>
 <a href="https://www.instagram.com/greymedia.id/">
-  <img align="left" alt="GreyMediaID Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  @greymedia.id<img align="left" alt="GreyMediaID Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
