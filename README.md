@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320"/>
 
 # GreyMedia.ID
-adalah forum diskusi dan sharing online/offline bagi kalian penggemar atau penggiat dalam dunia IT.
+GreyMedia.ID exist as a forum and place to share knowledge and develop knowledge, and still respect and a have a good attitude towards others
 
 ### About Us
 Kami adalah komunitas yang berfokus pada bidang IT
