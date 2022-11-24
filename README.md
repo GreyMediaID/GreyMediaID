@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320"/>
-# GreyMedia.ID
+
+## GreyMedia.ID
 adalah forum diskusi dan sharing online/offline bagi kalian penggemar atau penggiat dalam dunia IT.
 
 ### About Us
