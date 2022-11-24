@@ -4,7 +4,8 @@
 GreyMedia.ID exist as a forum and place to share knowledge and develop knowledge, and still respect and a have a good attitude towards others
 
 ### About Us
-Kami adalah komunitas yang berfokus pada bidang IT
+Kami adalah komunitas yang berfokus pada bidang IT, tentunya seperti Videografi/Fotografi, Pemrograman, Teknologi maju, Tips and Trick, dan lain sebagainya...
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif?raw=true" width="500">
 <!--
 **GreyMediaID/GreyMediaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
