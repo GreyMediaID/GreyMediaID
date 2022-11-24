@@ -1,5 +1,9 @@
-### Hi there 👋
+![GreyMedia.ID](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+### GreyMedia.ID
+adalah forum diskusi dan sharing online/offline bagi kalian penggemar atau penggiat dalam dunia IT.
 
+# About Us
+Kami adalah komunitas yang berfokus pada bidang IT
 <!--
 **GreyMediaID/GreyMediaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
